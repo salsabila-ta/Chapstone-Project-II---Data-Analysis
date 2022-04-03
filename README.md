@@ -88,24 +88,22 @@ DATA VISUALIZATION
 
 
 ## 4.1 **Negara Penyumbang Supplier**
-##  **Analysis 1: Negara Asal Supplier**
-<br>
-##  **Analysis 2: Kuantitas Barang Yang Diorder Per Negara Per Kategori**
-<br>
-##  **Analysis 3: Rata-Rata Harga Satuan Per Negara Per Kategori**
-<br>
+#### **Analysis 1: Negara Asal Supplier**
+#### **Analysis 2: Kuantitas Barang Yang Diorder Per Negara Per Kategori**
+#### **Analysis 3: Rata-Rata Harga Satuan Per Negara Per Kategori**
+
+
 
 ## 4.2 **Produk Yang Harus Reorder**
-## **Analysis 1: List Produk Yang Harus Seger Reorder**
-<br>
+#### **Analysis 1: List Produk Yang Harus Seger Reorder**
 
 ## 4.3 Total Sales Per Kategori
-<br>
-## **Analysis 1: Total Sales Per Kategori**
-<br>
-## **Analysis 2: Total Sales Perkategori & Dibandingkan Dengan Harga Satuan Serta Tingkat Reorder**
-<br>
-## **Analysis 3: Korelasi Antara Harga Satuan Dengan Reorderlevel**
+
+#### **Analysis 1: Total Sales Per Kategori**
+
+#### **Analysis 2: Total Sales Perkategori & Dibandingkan Dengan Harga Satuan Serta Tingkat Reorder**
+
+#### **Analysis 3: Korelasi Antara Harga Satuan Dengan Reorderlevel**
 
 ## 4.4 **Jumlah Order Sepanjang Waktu**
 
